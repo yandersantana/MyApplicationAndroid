@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="name">Yander Santana   2</string>
-    <string name="mensaje">Holaaa</string>
+    <string name="welcome">Hello</string>
+    <string name="name">Yander Santana</string>
 </resources>
